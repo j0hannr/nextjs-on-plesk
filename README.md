@@ -7,4 +7,4 @@
 3. Run `build --scripts-prepend-node-path` to Build
 4. Should be running :)
 
-
+Command must be called every time to Update Static files.
