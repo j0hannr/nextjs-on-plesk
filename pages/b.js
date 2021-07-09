@@ -1,3 +1,8 @@
 export default function B() {
-  return <div>b</div>
+  return (
+    <>
+    <h1>Hallo Welt</h1>
+    <div>b</div>
+    </>
+  )
 }
